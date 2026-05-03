@@ -100,7 +100,7 @@ function Hero() {
           Novo · Linea v2.0 disponível
         </Badge>
         <h1 className="mx-auto max-w-3xl text-balance text-5xl font-semibold tracking-tight md:text-6xl lg:text-7xl">
-          A plataforma simples para times que entregam.
+          A plataforma simples para times que entregam. Hipopotomonstrosesquipedaliofobia
         </h1>
         <p className="mx-auto mt-6 max-w-xl text-balance text-lg text-muted-foreground">
           Planeje, acompanhe e entregue trabalho com clareza. Sem ruído. Sem fricção.
