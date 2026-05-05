@@ -1,15 +1,15 @@
 export const metadata = {
-  title: 'Oi mundo — testericardo',
-  description: 'Página de teste simples exibindo "oi mundo".',
-}
+  title: "Oi mundo — testericardo",
+  description: "Rota de teste exibindo 'oi mundo'.",
+};
 
 export default function TestericardoPage() {
   return (
-    <main className="mx-auto max-w-3xl p-6">
-      <h1 className="text-2xl font-semibold">oi mundo</h1>
-      <p className="mt-2 text-muted-foreground">
-        Rota de teste /testericardo criada para validação rápida.
+    <main className="mx-auto max-w-3xl px-4 py-16">
+      <h1 className="text-3xl font-semibold tracking-tight">oi mundo</h1>
+      <p className="mt-4 text-muted-foreground">
+        Página de teste criada para validação da rota /testericardo.
       </p>
     </main>
-  )
+  );
 }
